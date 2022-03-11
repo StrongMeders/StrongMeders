@@ -23,4 +23,6 @@
 
 - 📫medersstrong@gmail.com
 
-https://strongmeders.github.io/Stabucks-landing-page/
+my first landing page  https://strongmeders.github.io/landing-page/
+
+my second landing page https://strongmeders.github.io/Stabucks-landing-page/
