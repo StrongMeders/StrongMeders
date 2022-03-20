@@ -6,15 +6,6 @@
 
 - 📫 medersstrong@gmail.com
 
-
-
-
-
-
-
-
-
-
 👋 Hi, I'm @StrongMeders I'm 17 years old and I live in Brazil
 
 - 👀 I'm interested in Front-end Programming.
@@ -23,7 +14,7 @@
 
 - 📫medersstrong@gmail.com
 
-<h1><link href="https://strongmeders.github.io/landing-page/" name"my first landing page"/><h1>
+<h3>[My First Landing Page](https://strongmeders.github.io/landing-page/)<h3>
 
 my second landing page https://strongmeders.github.io/Stabucks-landing-page/
 
