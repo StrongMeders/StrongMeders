@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/eduardo-henrick-lopes-macedo-866211209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-henrick-lopes-macedo-866211209" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100009196504297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100009196504297" height="30" width="40" /></a>
 <a href="https://instagram.com/f1.rick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f1.rick" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uc8dexdpflxh_tvhxyag_egg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/channel/uc8dexdpflxh_tvhxyag_egg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8DEXDpFLXH_tvhXYaG_egg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/channel/uc8dexdpflxh_tvhxyag_egg" height="30" width="40" /></a>
 <a href="https://discord.gg/f1.rickzin#8852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="f1.rickzin#8852" height="30" width="40" /></a>
 </p>
 
