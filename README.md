@@ -14,9 +14,9 @@
 
 - 📫medersstrong@gmail.com
 
-[Langing-Page-MarketingCreativo](https://strongmeders.github.io/landing-page/)
+[Langing Page MarketingCreativo](https://strongmeders.github.io/landing-page/)
 
-my second landing page https://strongmeders.github.io/Stabucks-landing-page/
+[Starbucks Lading Page](https://strongmeders.github.io/Stabucks-landing-page/)
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
