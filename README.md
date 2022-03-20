@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongmeders&label=Profile%20views&color=0e75b6&style=flat" alt="strongmeders" /> </p>
 
-- 📝 I'm working on [Starbucks Lading Page](https://strongmeders.github.io/landing-page/)
+- 📝 I'm working on [Starbucks Lading Page](https://strongmeders.github.io/starbucks-landing-page/)
 
 - 🌱 I’m currently learning **HTML,CSS,JS,AngularJS,NodeJS,ReactJS,VueJS**
 
