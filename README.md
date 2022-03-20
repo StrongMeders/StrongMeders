@@ -23,7 +23,7 @@
 
 - 📫medersstrong@gmail.com
 
-my first landing page  https://strongmeders.github.io/landing-page/
+<h1><link href="https://strongmeders.github.io/landing-page/" name"my first landing page"/><h1>
 
 my second landing page https://strongmeders.github.io/Stabucks-landing-page/
 
