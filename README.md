@@ -14,7 +14,7 @@
 
 - 📫medersstrong@gmail.com
 
-<h3>[My First Landing Page](https://strongmeders.github.io/landing-page/)<h3>
+My Initial Project: [Langing-Page-MarketingCreativo](https://strongmeders.github.io/landing-page/)
 
 my second landing page https://strongmeders.github.io/Stabucks-landing-page/
 
