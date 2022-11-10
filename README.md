@@ -5,7 +5,7 @@
 
 - 📝 I'm working on [Starbucks Lading Page](https://strongmeders.github.io/Stabucks-landing-page/)
 
-- 🌱 I’m currently learning **HTML,CSS,JS,AngularJS,NodeJS,ReactJS,VueJS**
+- 🌱 I’m currently learning **HTML,CSS,JS, BootStrap, NodeJS, ReactJS**
 
 - 👯 I'm looking to collaborate on **front-end projects**
 
