@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Henrick ot StrongMeders</h1>
+<h1 align="center">Hi 👋🏻, I'm Henrick ot StrongMeders</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongmeders&label=Profile%20views&color=76d2e5&style=flat" alt="strongmeders" /> </p>
