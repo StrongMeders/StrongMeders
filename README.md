@@ -5,13 +5,13 @@
 
 - 📝 I'm working on [Rick'sTech](https://rickstech.com.br)
 
-- 🌱 I’m currently learning **HTML,CSS,JS, BootStrap, NodeJS, ReactJS**
+- 🌱 I’m currently learning **TypeScript, BootStrap, NextJS, ReactJS**
 
-- 👯 I'm looking to collaborate on **front-end projects**
+- 👯 I'm looking to collaborate on **front-end and UX & UI Design projects**
 
 - 📫 How to reach me **eduardohenricklopesmacedo@gmail.com**
 
-- ⚡ Fun fact **interested in Front-End, I'm currently 17 years old and I know how to edit videos, photos and I'm also very familiar with Linux, Windows and Mac. And it is a pleasure to receive your visit!**
+- ⚡ Fun fact **interested in Front-End, I'm currently 20 years old and I know how to edit videos, photos and I'm also very familiar with Linux, Windows and Mac. And it is a pleasure to receive your visit!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
