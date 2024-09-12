@@ -1,24 +1,24 @@
-### Hi 👋🏻, I’m Henrick (aka StrongMeders)
+### Hi 👋🏻, I'm Henrick or StrongMeders
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongmeders&label=Profile%20views&color=76d2e5&style=flat" alt="strongmeders" /></p>
 
 📝 I'm currently working at Rick'sTech
 
-🌱 Learning: TypeScript, Bootstrap, Next.js, React.js
+🌱 I’m learning TypeScript, BootStrap, NextJS, ReactJS
 
-👯 Looking to Collaborate On: Front-end development and UX/UI Design projects
+👯 I'm looking to collaborate on front-end and UX & UI Design projects
 
-📫 Contact Me: eduardohenricklopesmacedo@gmail.com
+📫 How to reach me eduardohenricklopesmacedo@gmail.com
 
-⚡ Fun Fact: <strong>I'm DayTrader😮</strong>.
+⚡ Fun fact <strong>I'm DayTrader😮</strong>.
 
-👨‍💻 More About Me: <a href="rickstech.com.br">rickstech.com.br</a>
+👨‍💻 More at <a href="rickstech.com.br">rickstech.com.br</a>
 
 [![Site](https://img.shields.io/website?label=rickstech.com.br&style=for-the-badge&url=https://rickstech.com.br/)](https://rickstech.com.br)
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a6800e7b877d7385?mp_source=share)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardohenricklopesmacedo)
 
-[![Rick Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&theme=dark&hide_border=true&locale=en&layout=compact)](https://github.com/StrongMeders)
+[![Rick Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&theme=dark&hide_border=true&locale=en&layout=compact&bg_color=151b23)](https://github.com/StrongMeders)
 
 ## My Technologies
 <div>
