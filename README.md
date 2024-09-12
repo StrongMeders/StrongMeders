@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongmeders&label=Profile%20views&color=76d2e5&style=flat" alt="strongmeders" /> </p>
 
-- 📝 I'm working on [Rick`sTech](https://rickstech.com.br)
+- 📝 I'm working on [Rick'sTech](https://rickstech.com.br)
 
 - 🌱 I’m currently learning **HTML,CSS,JS, BootStrap, NodeJS, ReactJS**
 
