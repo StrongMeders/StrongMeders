@@ -9,7 +9,7 @@
 
 - 👯 I'm looking to collaborate on **front-end projects**
 
-- 📫 How to reach me **medersstrong@gmail.com**
+- 📫 How to reach me **strongmeders@gmail.com**
 
 - ⚡ Fun fact **interested in Front-End, I'm currently 17 years old and I know how to edit videos, photos and I'm also very familiar with Linux, Windows and Mac. And it is a pleasure to receive your visit!**
 
