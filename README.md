@@ -18,7 +18,7 @@
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a6800e7b877d7385?mp_source=share)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardohenricklopesmacedo)
 
-<img src="[https://cdn.discordapp.com/attachments/1073707531169431602/1283708883306680341/Sequence_01_4.gif?ex=66e3fa8f&is=66e2a90f&hm=fb5824a9439a661f5c32f9e4a50786131fcbb4a8900e735b780b0a0d41f498c1&](https://alllojas8.wordpress.com/wp-content/uploads/2024/09/sequence-01_4.gif?w=480)" style="width: 200vw; height: 20vh">
+<img src="https://alllojas8.wordpress.com/wp-content/uploads/2024/09/sequence-01_4.gif?w=480)" style="width: 200vw; height:30vh;">
 
 [![Rick Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&theme=dark&hide_border=true&locale=en&layout=compact&bg_color=151b23)](https://github.com/StrongMeders)
 
