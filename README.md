@@ -12,7 +12,7 @@
 
 ⚡ Fun Fact: <strong>I'm DayTrader😮</strong>.
 
-👨‍💻 More About Me: <a href="rickstech.com.br">rickstech.com.br</a>
+👨‍💻 More About Me: <a href="https://rickstech.com.br">rickstech.com.br</a>
 
 [![Site](https://img.shields.io/website?label=rickstech.com.br&style=for-the-badge&url=https://rickstech.com.br/)](https://rickstech.com.br)
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a6800e7b877d7385?mp_source=share)
