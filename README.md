@@ -18,7 +18,7 @@
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a6800e7b877d7385?mp_source=share)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardohenricklopesmacedo)
 
-<img src="https://alllojas8.wordpress.com/wp-content/uploads/2024/09/sequence-01_4.gif?w=480)" style="width: 1400px; height:300px;">
+<img src="https://alllojas8.wordpress.com/wp-content/uploads/2024/09/sequence-01_4.gif?w=480)" style=" border-radius:5px; width: 1200px; height:300px;">
 
 [![Rick Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&theme=dark&hide_border=true&locale=en&layout=compact&bg_color=151b23)](https://github.com/StrongMeders)
 
