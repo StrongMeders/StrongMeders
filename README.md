@@ -8,8 +8,6 @@
 
 👯 Looking to Collaborate On: Front-end development and UX/UI Design projects
 
-⚡ Fun Fact: <strong>I'm DayTrader</strong>.
-
 👨‍💻 More About Me: <a href="https://rickstech.com.br">rickstech.com.br</a>
 
 [![Site](https://img.shields.io/website?label=rickstech.com.br&style=for-the-badge&url=https://rickstech.com.br/)](https://rickstech.com.br)
