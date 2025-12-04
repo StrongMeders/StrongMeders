@@ -56,8 +56,8 @@
   
   <img align="center" alt="System" src="https://img.shields.io/badge/Windows 11-Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Processor" src="https://img.shields.io/badge/AMD-Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-  <img align="center" alt="GPU" src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  <img align="center" alt="GPU" src="https://img.shields.io/badge/RAM- 50GB Asgard Valkyrie v5-76B900?style=for-the-badge&color=ff2424">
+  <img align="center" alt="GPU" src="https://img.shields.io/badge/NVIDIA-RTX5060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img align="center" alt="GPU" src="https://img.shields.io/badge/RAM- 32GB Asgard Valkyrie v5-76B900?style=for-the-badge&color=ff2424">
   <img align="center" alt="GPU" src="https://img.shields.io/badge/SSD-1TB 4500Mb/s NVME-76B900?style=for-the-badge">
 </div>
 
