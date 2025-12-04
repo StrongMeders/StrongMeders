@@ -13,9 +13,6 @@
 [![Site](https://img.shields.io/website?label=rickstech.com.br&style=for-the-badge&url=https://rickstech.com.br/)](https://rickstech.com.br)
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a6800e7b877d7385?mp_source=share)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henricklopes)
-
-[![Rick Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=strongmeders&theme=dark&hide_border=true&locale=en&layout=compact&bg_color=151b23)](https://github.com/StrongMeders)
-
 ## My Technologies
 <div>
 <p style="font-size:20px">Design</p>
